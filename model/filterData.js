@@ -1,0 +1,1 @@
+FilterData = new Mongo.Collection("filterData");
